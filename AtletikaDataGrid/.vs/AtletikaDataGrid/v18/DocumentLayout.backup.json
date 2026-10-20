@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|c:\\users\\medve.donat\\desktop\\munka\\k\u00E9sz\\atletikadatagrid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|c:\\users\\medve.donat\\desktop\\munka\\k\u00E9sz\\atletikadatagrid\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|solutionrelative:versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|c:\\users\\medve.donat\\desktop\\munka\\k\u00E9sz\\atletikadatagrid\\atletikadatagrid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B1F3A52-8C4D-4E9A-9D17-3F2A5C7E1B90}|AtletikaDataGrid.csproj|solutionrelative:atletikadatagrid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T07:45:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtletikaDataGrid.csproj",
+              "DocumentMoniker": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\AtletikaDataGrid.csproj",
+              "RelativeDocumentMoniker": "AtletikaDataGrid.csproj",
+              "ToolTip": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\AtletikaDataGrid.csproj",
+              "RelativeToolTip": "AtletikaDataGrid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T07:42:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Versenyzo.cs",
+              "ToolTip": "C:\\Users\\medve.donat\\Desktop\\munka\\k\u00E9sz\\AtletikaDataGrid\\Versenyzo.cs",
+              "RelativeToolTip": "Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:42:23.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
